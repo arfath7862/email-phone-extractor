@@ -1,0 +1,7 @@
+Emails:
+john.doe@gmail.com
+support@company.org
+
+Phone Numbers:
++91-9876543210
+080-12345678
